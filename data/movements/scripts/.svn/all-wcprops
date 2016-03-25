@@ -1,0 +1,83 @@
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/95/trunk/data/movements/scripts
+END
+boh.lua
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/8/trunk/data/movements/scripts/boh.lua
+END
+firefield.lua
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/95/trunk/data/movements/scripts/firefield.lua
+END
+onadd_questdoor.lua
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/95/trunk/data/movements/scripts/onadd_questdoor.lua
+END
+onadd_lockeddoor.lua
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/95/trunk/data/movements/scripts/onadd_lockeddoor.lua
+END
+closingdoor_horizontal.lua
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/95/trunk/data/movements/scripts/closingdoor_horizontal.lua
+END
+pitfall.lua
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/95/trunk/data/movements/scripts/pitfall.lua
+END
+closingdoor_vertical.lua
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/95/trunk/data/movements/scripts/closingdoor_vertical.lua
+END
+setnewtown.lua
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/95/trunk/data/movements/scripts/setnewtown.lua
+END
+searingfire.lua
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/95/trunk/data/movements/scripts/searingfire.lua
+END
+traphole.lua
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/8/trunk/data/movements/scripts/traphole.lua
+END
+switch_tile.lua
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/95/trunk/data/movements/scripts/switch_tile.lua
+END
+trap.lua
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/95/trunk/data/movements/scripts/trap.lua
+END
+onadd_gateofexp.lua
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/95/trunk/data/movements/scripts/onadd_gateofexp.lua
+END

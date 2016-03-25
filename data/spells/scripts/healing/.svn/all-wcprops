@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/8/trunk/data/spells/scripts/healing
+END
+antidote_rune.lua
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/8/trunk/data/spells/scripts/healing/antidote_rune.lua
+END
+heal_friend.lua
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/8/trunk/data/spells/scripts/healing/heal_friend.lua
+END
+ultimate_healing_rune.lua
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/8/trunk/data/spells/scripts/healing/ultimate_healing_rune.lua
+END
+intense_healing_rune.lua
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/8/trunk/data/spells/scripts/healing/intense_healing_rune.lua
+END
+antidote.lua
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/8/trunk/data/spells/scripts/healing/antidote.lua
+END
+mass_healing.lua
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/8/trunk/data/spells/scripts/healing/mass_healing.lua
+END
+ultimate_healing.lua
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/8/trunk/data/spells/scripts/healing/ultimate_healing.lua
+END
+intense_healing.lua
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/8/trunk/data/spells/scripts/healing/intense_healing.lua
+END
+light_healing.lua
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/8/trunk/data/spells/scripts/healing/light_healing.lua
+END

@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 27
+/svn/!svn/ver/97/trunk/data
+END
+vocations.xml
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/svn/!svn/ver/8/trunk/data/vocations.xml
+END
+functions.lua
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svn/!svn/ver/97/trunk/data/functions.lua
+END
+global.lua
+K 25
+svn:wc:ra_dav:version-url
+V 38
+/svn/!svn/ver/97/trunk/data/global.lua
+END
+commands.xml
+K 25
+svn:wc:ra_dav:version-url
+V 39
+/svn/!svn/ver/8/trunk/data/commands.xml
+END

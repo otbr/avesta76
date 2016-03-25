@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+
+<talkactions>
+<talkaction words="!example" script="example.lua"/>
+<talkaction log="yes" access="1" words="!pos" script="position.lua"/>
+<talkaction log="yes" access="1" words="!quest" script="quest log.lua"/>
+<talkaction log="yes" access="1" words="!buypremmy" script="prem.lua"/>
+</talkactions>
+

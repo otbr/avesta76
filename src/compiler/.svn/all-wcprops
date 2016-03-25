@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 35
+/svn/!svn/ver/38/trunk/src/compiler
+END
+gcc.h
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svn/!svn/ver/38/trunk/src/compiler/gcc.h
+END
+workarounds.h
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/38/trunk/src/compiler/workarounds.h
+END
+msvc.h
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/!svn/ver/38/trunk/src/compiler/msvc.h
+END

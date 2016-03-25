@@ -1,0 +1,83 @@
+K 25
+svn:wc:ra_dav:version-url
+V 27
+/svn/!svn/ver/96/trunk/misc
+END
+Doxyfile
+K 25
+svn:wc:ra_dav:version-url
+V 36
+/svn/!svn/ver/21/trunk/misc/Doxyfile
+END
+configure.ac
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/svn/!svn/ver/85/trunk/misc/configure.ac
+END
+schema.mysql
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/svn/!svn/ver/37/trunk/misc/schema.mysql
+END
+AUTHORS
+K 25
+svn:wc:ra_dav:version-url
+V 35
+/svn/!svn/ver/21/trunk/misc/AUTHORS
+END
+config.lua
+K 25
+svn:wc:ra_dav:version-url
+V 38
+/svn/!svn/ver/69/trunk/misc/config.lua
+END
+Makefile.am
+K 25
+svn:wc:ra_dav:version-url
+V 39
+/svn/!svn/ver/85/trunk/misc/Makefile.am
+END
+otserv.kdevelop
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/21/trunk/misc/otserv.kdevelop
+END
+autogen.sh
+K 25
+svn:wc:ra_dav:version-url
+V 38
+/svn/!svn/ver/21/trunk/misc/autogen.sh
+END
+README
+K 25
+svn:wc:ra_dav:version-url
+V 34
+/svn/!svn/ver/21/trunk/misc/README
+END
+schema.sqlite
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svn/!svn/ver/96/trunk/misc/schema.sqlite
+END
+README.DATABASE
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/21/trunk/misc/README.DATABASE
+END
+debianfix.sh
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/svn/!svn/ver/21/trunk/misc/debianfix.sh
+END
+LICENSE
+K 25
+svn:wc:ra_dav:version-url
+V 35
+/svn/!svn/ver/21/trunk/misc/LICENSE
+END

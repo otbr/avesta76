@@ -1,0 +1,923 @@
+K 25
+svn:wc:ra_dav:version-url
+V 26
+/svn/!svn/ver/97/trunk/src
+END
+exception.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/svn/!svn/ver/91/trunk/src/exception.cpp
+END
+networkmessage.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/52/trunk/src/networkmessage.cpp
+END
+talkaction.h
+K 25
+svn:wc:ra_dav:version-url
+V 39
+/svn/!svn/ver/95/trunk/src/talkaction.h
+END
+scriptmanager.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/75/trunk/src/scriptmanager.cpp
+END
+waitlist.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 39
+/svn/!svn/ver/37/trunk/src/waitlist.cpp
+END
+housetile.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 39
+/svn/!svn/ver/7/trunk/src/housetile.cpp
+END
+protocol.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 39
+/svn/!svn/ver/91/trunk/src/protocol.cpp
+END
+waypoints.h
+K 25
+svn:wc:ra_dav:version-url
+V 38
+/svn/!svn/ver/91/trunk/src/waypoints.h
+END
+raids.h
+K 25
+svn:wc:ra_dav:version-url
+V 34
+/svn/!svn/ver/91/trunk/src/raids.h
+END
+cylinder.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 38
+/svn/!svn/ver/7/trunk/src/cylinder.cpp
+END
+outfit.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 37
+/svn/!svn/ver/91/trunk/src/outfit.cpp
+END
+creature.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 39
+/svn/!svn/ver/97/trunk/src/creature.cpp
+END
+creatureevent.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/95/trunk/src/creatureevent.cpp
+END
+weapons.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 38
+/svn/!svn/ver/96/trunk/src/weapons.cpp
+END
+iomapserialize.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/91/trunk/src/iomapserialize.cpp
+END
+container.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/svn/!svn/ver/86/trunk/src/container.cpp
+END
+otserv.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 37
+/svn/!svn/ver/91/trunk/src/otserv.cpp
+END
+otpch.h
+K 25
+svn:wc:ra_dav:version-url
+V 33
+/svn/!svn/ver/7/trunk/src/otpch.h
+END
+house.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 36
+/svn/!svn/ver/95/trunk/src/house.cpp
+END
+monster.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 38
+/svn/!svn/ver/81/trunk/src/monster.cpp
+END
+talkaction.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svn/!svn/ver/95/trunk/src/talkaction.cpp
+END
+movement.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 39
+/svn/!svn/ver/96/trunk/src/movement.cpp
+END
+databasemysql.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/97/trunk/src/databasemysql.cpp
+END
+protocolgame.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/95/trunk/src/protocolgame.cpp
+END
+spawn.h
+K 25
+svn:wc:ra_dav:version-url
+V 34
+/svn/!svn/ver/91/trunk/src/spawn.h
+END
+actions.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 38
+/svn/!svn/ver/95/trunk/src/actions.cpp
+END
+configmanager.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/91/trunk/src/configmanager.cpp
+END
+baseevents.h
+K 25
+svn:wc:ra_dav:version-url
+V 39
+/svn/!svn/ver/91/trunk/src/baseevents.h
+END
+waitlist.h
+K 25
+svn:wc:ra_dav:version-url
+V 37
+/svn/!svn/ver/91/trunk/src/waitlist.h
+END
+combat.h
+K 25
+svn:wc:ra_dav:version-url
+V 35
+/svn/!svn/ver/95/trunk/src/combat.h
+END
+iomap.h
+K 25
+svn:wc:ra_dav:version-url
+V 34
+/svn/!svn/ver/91/trunk/src/iomap.h
+END
+luascript.h
+K 25
+svn:wc:ra_dav:version-url
+V 38
+/svn/!svn/ver/97/trunk/src/luascript.h
+END
+fileloader.h
+K 25
+svn:wc:ra_dav:version-url
+V 39
+/svn/!svn/ver/95/trunk/src/fileloader.h
+END
+otpch.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 36
+/svn/!svn/ver/52/trunk/src/otpch.cpp
+END
+scheduler.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 39
+/svn/!svn/ver/7/trunk/src/scheduler.cpp
+END
+creatureevent.h
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/!svn/ver/91/trunk/src/creatureevent.h
+END
+weapons.h
+K 25
+svn:wc:ra_dav:version-url
+V 36
+/svn/!svn/ver/95/trunk/src/weapons.h
+END
+databasesqlite.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/97/trunk/src/databasesqlite.cpp
+END
+condition.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/svn/!svn/ver/96/trunk/src/condition.cpp
+END
+tasks.h
+K 25
+svn:wc:ra_dav:version-url
+V 34
+/svn/!svn/ver/91/trunk/src/tasks.h
+END
+itemloader.h
+K 25
+svn:wc:ra_dav:version-url
+V 39
+/svn/!svn/ver/91/trunk/src/itemloader.h
+END
+rsa.h
+K 25
+svn:wc:ra_dav:version-url
+V 32
+/svn/!svn/ver/91/trunk/src/rsa.h
+END
+player.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 37
+/svn/!svn/ver/97/trunk/src/player.cpp
+END
+iomapotbm.h
+K 25
+svn:wc:ra_dav:version-url
+V 38
+/svn/!svn/ver/53/trunk/src/iomapotbm.h
+END
+protocollogin.h
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/!svn/ver/91/trunk/src/protocollogin.h
+END
+party.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 35
+/svn/!svn/ver/7/trunk/src/party.cpp
+END
+mailbox.h
+K 25
+svn:wc:ra_dav:version-url
+V 36
+/svn/!svn/ver/95/trunk/src/mailbox.h
+END
+tools.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 36
+/svn/!svn/ver/91/trunk/src/tools.cpp
+END
+spells.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 37
+/svn/!svn/ver/96/trunk/src/spells.cpp
+END
+tile.h
+K 25
+svn:wc:ra_dav:version-url
+V 33
+/svn/!svn/ver/95/trunk/src/tile.h
+END
+globalevent.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/!svn/ver/75/trunk/src/globalevent.cpp
+END
+item.h
+K 25
+svn:wc:ra_dav:version-url
+V 33
+/svn/!svn/ver/97/trunk/src/item.h
+END
+teleport.h
+K 25
+svn:wc:ra_dav:version-url
+V 37
+/svn/!svn/ver/95/trunk/src/teleport.h
+END
+combat.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 37
+/svn/!svn/ver/96/trunk/src/combat.cpp
+END
+configmanager.h
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/!svn/ver/91/trunk/src/configmanager.h
+END
+actions.h
+K 25
+svn:wc:ra_dav:version-url
+V 36
+/svn/!svn/ver/95/trunk/src/actions.h
+END
+server.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 37
+/svn/!svn/ver/52/trunk/src/server.cpp
+END
+monsters.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 38
+/svn/!svn/ver/7/trunk/src/monsters.cpp
+END
+trashholder.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svn/!svn/ver/7/trunk/src/trashholder.cpp
+END
+chat.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 35
+/svn/!svn/ver/54/trunk/src/chat.cpp
+END
+rsa.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 34
+/svn/!svn/ver/52/trunk/src/rsa.cpp
+END
+tasks.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 36
+/svn/!svn/ver/52/trunk/src/tasks.cpp
+END
+iomapxml.h
+K 25
+svn:wc:ra_dav:version-url
+V 37
+/svn/!svn/ver/91/trunk/src/iomapxml.h
+END
+account.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 38
+/svn/!svn/ver/91/trunk/src/account.cpp
+END
+tile.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 35
+/svn/!svn/ver/94/trunk/src/tile.cpp
+END
+player.h
+K 25
+svn:wc:ra_dav:version-url
+V 35
+/svn/!svn/ver/97/trunk/src/player.h
+END
+raids.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 36
+/svn/!svn/ver/95/trunk/src/raids.cpp
+END
+scriptmanager.h
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svn/!svn/ver/7/trunk/src/scriptmanager.h
+END
+tools.h
+K 25
+svn:wc:ra_dav:version-url
+V 34
+/svn/!svn/ver/91/trunk/src/tools.h
+END
+game.h
+K 25
+svn:wc:ra_dav:version-url
+V 33
+/svn/!svn/ver/97/trunk/src/game.h
+END
+logger.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 36
+/svn/!svn/ver/7/trunk/src/logger.cpp
+END
+npc.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 34
+/svn/!svn/ver/95/trunk/src/npc.cpp
+END
+beds.h
+K 25
+svn:wc:ra_dav:version-url
+V 33
+/svn/!svn/ver/91/trunk/src/beds.h
+END
+status.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 37
+/svn/!svn/ver/37/trunk/src/status.cpp
+END
+vocation.h
+K 25
+svn:wc:ra_dav:version-url
+V 37
+/svn/!svn/ver/97/trunk/src/vocation.h
+END
+house.h
+K 25
+svn:wc:ra_dav:version-url
+V 34
+/svn/!svn/ver/95/trunk/src/house.h
+END
+monster.h
+K 25
+svn:wc:ra_dav:version-url
+V 36
+/svn/!svn/ver/95/trunk/src/monster.h
+END
+connection.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svn/!svn/ver/52/trunk/src/connection.cpp
+END
+ban.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 34
+/svn/!svn/ver/91/trunk/src/ban.cpp
+END
+protocolgame.h
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svn/!svn/ver/91/trunk/src/protocolgame.h
+END
+account.h
+K 25
+svn:wc:ra_dav:version-url
+V 36
+/svn/!svn/ver/91/trunk/src/account.h
+END
+commands.h
+K 25
+svn:wc:ra_dav:version-url
+V 37
+/svn/!svn/ver/91/trunk/src/commands.h
+END
+fileloader.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/svn/!svn/ver/7/trunk/src/fileloader.cpp
+END
+luascript.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/svn/!svn/ver/97/trunk/src/luascript.cpp
+END
+game.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 35
+/svn/!svn/ver/97/trunk/src/game.cpp
+END
+config.h
+K 25
+svn:wc:ra_dav:version-url
+V 34
+/svn/!svn/ver/7/trunk/src/config.h
+END
+depot.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 36
+/svn/!svn/ver/86/trunk/src/depot.cpp
+END
+beds.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 35
+/svn/!svn/ver/86/trunk/src/beds.cpp
+END
+allocator.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 39
+/svn/!svn/ver/7/trunk/src/allocator.cpp
+END
+npc.h
+K 25
+svn:wc:ra_dav:version-url
+V 32
+/svn/!svn/ver/96/trunk/src/npc.h
+END
+items.h
+K 25
+svn:wc:ra_dav:version-url
+V 34
+/svn/!svn/ver/96/trunk/src/items.h
+END
+protocollogin.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/92/trunk/src/protocollogin.cpp
+END
+sha1.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 34
+/svn/!svn/ver/7/trunk/src/sha1.cpp
+END
+otsystem.h
+K 25
+svn:wc:ra_dav:version-url
+V 37
+/svn/!svn/ver/91/trunk/src/otsystem.h
+END
+teleport.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 39
+/svn/!svn/ver/86/trunk/src/teleport.cpp
+END
+item.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 35
+/svn/!svn/ver/97/trunk/src/item.cpp
+END
+commands.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 39
+/svn/!svn/ver/76/trunk/src/commands.cpp
+END
+networkmessage.h
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/91/trunk/src/networkmessage.h
+END
+exception.h
+K 25
+svn:wc:ra_dav:version-url
+V 38
+/svn/!svn/ver/91/trunk/src/exception.h
+END
+position.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 39
+/svn/!svn/ver/95/trunk/src/position.cpp
+END
+party.h
+K 25
+svn:wc:ra_dav:version-url
+V 34
+/svn/!svn/ver/52/trunk/src/party.h
+END
+ban.h
+K 25
+svn:wc:ra_dav:version-url
+V 32
+/svn/!svn/ver/91/trunk/src/ban.h
+END
+outputmessage.h
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/!svn/ver/91/trunk/src/outputmessage.h
+END
+thing.h
+K 25
+svn:wc:ra_dav:version-url
+V 34
+/svn/!svn/ver/97/trunk/src/thing.h
+END
+outfit.h
+K 25
+svn:wc:ra_dav:version-url
+V 35
+/svn/!svn/ver/91/trunk/src/outfit.h
+END
+creature.h
+K 25
+svn:wc:ra_dav:version-url
+V 37
+/svn/!svn/ver/97/trunk/src/creature.h
+END
+definitions.h
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/svn/!svn/ver/52/trunk/src/definitions.h
+END
+items.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 36
+/svn/!svn/ver/96/trunk/src/items.cpp
+END
+map.h
+K 25
+svn:wc:ra_dav:version-url
+V 32
+/svn/!svn/ver/91/trunk/src/map.h
+END
+ioplayer.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 39
+/svn/!svn/ver/97/trunk/src/ioplayer.cpp
+END
+trashholder.h
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/svn/!svn/ver/95/trunk/src/trashholder.h
+END
+chat.h
+K 25
+svn:wc:ra_dav:version-url
+V 33
+/svn/!svn/ver/91/trunk/src/chat.h
+END
+allocator.h
+K 25
+svn:wc:ra_dav:version-url
+V 38
+/svn/!svn/ver/91/trunk/src/allocator.h
+END
+iomapxml.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 39
+/svn/!svn/ver/91/trunk/src/iomapxml.cpp
+END
+container.h
+K 25
+svn:wc:ra_dav:version-url
+V 38
+/svn/!svn/ver/95/trunk/src/container.h
+END
+town.h
+K 25
+svn:wc:ra_dav:version-url
+V 33
+/svn/!svn/ver/95/trunk/src/town.h
+END
+databasemysql.h
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/!svn/ver/97/trunk/src/databasemysql.h
+END
+movement.h
+K 25
+svn:wc:ra_dav:version-url
+V 37
+/svn/!svn/ver/91/trunk/src/movement.h
+END
+baseevents.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/svn/!svn/ver/7/trunk/src/baseevents.cpp
+END
+sha1.h
+K 25
+svn:wc:ra_dav:version-url
+V 32
+/svn/!svn/ver/7/trunk/src/sha1.h
+END
+templates.h
+K 25
+svn:wc:ra_dav:version-url
+V 38
+/svn/!svn/ver/91/trunk/src/templates.h
+END
+database.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 38
+/svn/!svn/ver/7/trunk/src/database.cpp
+END
+outputmessage.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/7/trunk/src/outputmessage.cpp
+END
+thing.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 35
+/svn/!svn/ver/7/trunk/src/thing.cpp
+END
+position.h
+K 25
+svn:wc:ra_dav:version-url
+V 37
+/svn/!svn/ver/91/trunk/src/position.h
+END
+map.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 34
+/svn/!svn/ver/91/trunk/src/map.cpp
+END
+vocation.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 39
+/svn/!svn/ver/96/trunk/src/vocation.cpp
+END
+scheduler.h
+K 25
+svn:wc:ra_dav:version-url
+V 38
+/svn/!svn/ver/91/trunk/src/scheduler.h
+END
+logger.h
+K 25
+svn:wc:ra_dav:version-url
+V 34
+/svn/!svn/ver/7/trunk/src/logger.h
+END
+ioaccount.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/svn/!svn/ver/91/trunk/src/ioaccount.cpp
+END
+iomapotbm.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/svn/!svn/ver/56/trunk/src/iomapotbm.cpp
+END
+status.h
+K 25
+svn:wc:ra_dav:version-url
+V 35
+/svn/!svn/ver/91/trunk/src/status.h
+END
+ioplayer.h
+K 25
+svn:wc:ra_dav:version-url
+V 37
+/svn/!svn/ver/91/trunk/src/ioplayer.h
+END
+md5.h
+K 25
+svn:wc:ra_dav:version-url
+V 31
+/svn/!svn/ver/7/trunk/src/md5.h
+END
+condition.h
+K 25
+svn:wc:ra_dav:version-url
+V 38
+/svn/!svn/ver/96/trunk/src/condition.h
+END
+mailbox.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 38
+/svn/!svn/ver/71/trunk/src/mailbox.cpp
+END
+databasesqlite.h
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/97/trunk/src/databasesqlite.h
+END
+enums.h
+K 25
+svn:wc:ra_dav:version-url
+V 34
+/svn/!svn/ver/97/trunk/src/enums.h
+END
+connection.h
+K 25
+svn:wc:ra_dav:version-url
+V 39
+/svn/!svn/ver/91/trunk/src/connection.h
+END
+housetile.h
+K 25
+svn:wc:ra_dav:version-url
+V 38
+/svn/!svn/ver/95/trunk/src/housetile.h
+END
+protocol.h
+K 25
+svn:wc:ra_dav:version-url
+V 37
+/svn/!svn/ver/91/trunk/src/protocol.h
+END
+globalevent.h
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/svn/!svn/ver/91/trunk/src/globalevent.h
+END
+spells.h
+K 25
+svn:wc:ra_dav:version-url
+V 35
+/svn/!svn/ver/95/trunk/src/spells.h
+END
+database.h
+K 25
+svn:wc:ra_dav:version-url
+V 37
+/svn/!svn/ver/97/trunk/src/database.h
+END
+server.h
+K 25
+svn:wc:ra_dav:version-url
+V 34
+/svn/!svn/ver/7/trunk/src/server.h
+END
+cylinder.h
+K 25
+svn:wc:ra_dav:version-url
+V 36
+/svn/!svn/ver/7/trunk/src/cylinder.h
+END
+monsters.h
+K 25
+svn:wc:ra_dav:version-url
+V 37
+/svn/!svn/ver/91/trunk/src/monsters.h
+END
+depot.h
+K 25
+svn:wc:ra_dav:version-url
+V 34
+/svn/!svn/ver/95/trunk/src/depot.h
+END
+iomapserialize.h
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/91/trunk/src/iomapserialize.h
+END
+md5.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 34
+/svn/!svn/ver/91/trunk/src/md5.cpp
+END
+spawn.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 35
+/svn/!svn/ver/7/trunk/src/spawn.cpp
+END
+ioaccount.h
+K 25
+svn:wc:ra_dav:version-url
+V 38
+/svn/!svn/ver/91/trunk/src/ioaccount.h
+END
+const.h
+K 25
+svn:wc:ra_dav:version-url
+V 34
+/svn/!svn/ver/97/trunk/src/const.h
+END

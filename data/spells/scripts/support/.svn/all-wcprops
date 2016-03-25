@@ -1,0 +1,95 @@
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/93/trunk/data/spells/scripts/support
+END
+haste.lua
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/8/trunk/data/spells/scripts/support/haste.lua
+END
+magic_rope.lua
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/8/trunk/data/spells/scripts/support/magic_rope.lua
+END
+light.lua
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/8/trunk/data/spells/scripts/support/light.lua
+END
+desintegrate_rune.lua
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/8/trunk/data/spells/scripts/support/desintegrate_rune.lua
+END
+magic_shield.lua
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/8/trunk/data/spells/scripts/support/magic_shield.lua
+END
+ultimate_light.lua
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/8/trunk/data/spells/scripts/support/ultimate_light.lua
+END
+paralyze_rune.lua
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/8/trunk/data/spells/scripts/support/paralyze_rune.lua
+END
+challenge.lua
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/8/trunk/data/spells/scripts/support/challenge.lua
+END
+cancel_invisibility.lua
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/8/trunk/data/spells/scripts/support/cancel_invisibility.lua
+END
+invisible.lua
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/8/trunk/data/spells/scripts/support/invisible.lua
+END
+destroy_field_rune.lua
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/8/trunk/data/spells/scripts/support/destroy_field_rune.lua
+END
+magic_wall_rune.lua
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/8/trunk/data/spells/scripts/support/magic_wall_rune.lua
+END
+wild_growth.lua
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/8/trunk/data/spells/scripts/support/wild_growth.lua
+END
+great_light.lua
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/8/trunk/data/spells/scripts/support/great_light.lua
+END
+strong_haste.lua
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/93/trunk/data/spells/scripts/support/strong_haste.lua
+END

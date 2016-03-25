@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/svn/!svn/ver/97/trunk/data/game_classes
+END
+house.lua
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/8/trunk/data/game_classes/house.lua
+END
+bitwise.lua
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/97/trunk/data/game_classes/bitwise.lua
+END
+calculator.lua
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/8/trunk/data/game_classes/calculator.lua
+END
+damage.lua
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/8/trunk/data/game_classes/damage.lua
+END

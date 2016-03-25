@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/97/trunk/data/creaturescripts/scripts
+END
+die1.lua
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/8/trunk/data/creaturescripts/scripts/die1.lua
+END
+die2.lua
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/8/trunk/data/creaturescripts/scripts/die2.lua
+END
+stages.lua
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/97/trunk/data/creaturescripts/scripts/stages.lua
+END
+login.lua
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/8/trunk/data/creaturescripts/scripts/login.lua
+END
+logout.lua
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/8/trunk/data/creaturescripts/scripts/logout.lua
+END
+kill.lua
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/8/trunk/data/creaturescripts/scripts/kill.lua
+END
